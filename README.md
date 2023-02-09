@@ -2278,4 +2278,4 @@
 
 ## 完整数据截图（含详细出处）
 
-![image](https://github.com/zjsxply/China-Discipline-Evaluation/raw/master/第五轮学科评估官宣结果汇总.png)
+![image](https://github.com/zjsxply/China-Discipline-Evaluation/blob/main/%E7%AC%AC%E4%BA%94%E8%BD%AE%E5%AD%A6%E7%A7%91%E8%AF%84%E4%BC%B0%E5%AE%98%E5%AE%A3%E7%BB%93%E6%9E%9C%E6%B1%87%E6%80%BB.png?raw=true)
