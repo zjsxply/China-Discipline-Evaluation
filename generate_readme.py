@@ -24,8 +24,7 @@ def format_data(df, sort='学校'):
         if last != xx:
             last = xx
             result += f'\n### {xx}\n\n'
-            result += f'''| {the_other} | 等级/结果 | 推测等级或第四轮等级 |
-    | -------------- | ------------------------------ | -------------------- |\n'''
+            result += f'''| {the_other} | 等级/结果 | 推测等级或第四轮等级 |\n| -------------- | ------------------------------ | -------------------- |\n'''
         result += f'| {xk} | {jg} | {tc} |\n'
     return result
 
@@ -46,6 +45,6 @@ def generate():
     text = constants.TEMPLATE_README.format(order_by_school=order_by_school, order_by_discipline=order_by_discipline)
     return text
 
-with open('README.md', 'w', encoding='utf-8') as f:
+with open('README.md', 'w') as f:
     f.write(generate())
 
