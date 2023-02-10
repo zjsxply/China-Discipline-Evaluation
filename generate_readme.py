@@ -1,18 +1,20 @@
 import pandas as pd
+import numpy as np
 import constants
+from pypinyin import pinyin, lazy_pinyin, Style
 
 
-def format_data(data, sort='学校', sep='\t'):
+def format_data(df, sort='学校'):
     '''
-    功能：将以 sep 分割的表格数据 格式化 为按学校或学科排列的数据
+    功能：将 dataframe 格式化 为按学校或学科排列的数据
     参数：sort 学校/学科
     '''
     assert(sort in ('学校', '学科'))
     the_other = '学科' if sort == '学校' else '学校'
     result = ''
     last = ''
-    for line in data.iterrows():
-        xx, xk, jg, tc = line.iloc[range(4)]
+    for index, line in df.iterrows():
+        xx, xk, jg, tc = line[:4]
         if xx == '学校':
             continue
         # 若按学科排列，则将 xx 和 xk 数据对调
@@ -28,11 +30,22 @@ def format_data(data, sort='学校', sep='\t'):
     return result
 
 def generate():
-    data = pd.read_table('original_data.csv', sep=",", encoding='gbk')
-    order_by_school = format_data(data, sort='学校')
-    order_by_discipline = format_data(data, sort='学科')
+    df = pd.read_table('original_data.csv', sep=",", encoding='gbk')
+    df.fillna('', inplace=True)
+    
+    # 截取所需要的数据，并去重
+    sorted_df = df[['学校','学科','等级/结果','推测等级或第四轮等级']]
+    sorted_df = sorted_df.drop_duplicates()
+    
+    # 排序并格式化数据，按学科排列时忽略非标准学科名称的行
+    sorted_df['学校拼音'] = sorted_df['学校'].map(lambda x: tuple(lazy_pinyin(x)))
+    sorted_df['学科代码'] = sorted_df['学科'].map(lambda x: constants.DISCIPLINE_CODE.get(x, np.nan))
+    order_by_school = format_data(sorted_df, sort='学校')
+    order_by_discipline = format_data(sorted_df.dropna().sort_values(by=['学科代码', '学校拼音']), sort='学科')
+    
     text = constants.TEMPLATE_README.format(order_by_school=order_by_school, order_by_discipline=order_by_discipline)
     return text
 
-with open('README.md', 'w') as f:
+with open('README.md', 'w', encoding='utf-8') as f:
     f.write(generate())
+
