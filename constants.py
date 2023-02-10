@@ -4,13 +4,17 @@ TEMPLATE_README = '''# 第五轮学科评估官宣完全汇总（附出处）
 - 包括：微信公众号、官网、公开直播截图、官媒
 - 不包括：无法公开验证真实性的传言、聊天记录截图、转述
 
-可按学校查看结果，也可按学科查看
+177 所学校，92 个学科，628 条数据，整理不易，**客官点个 Star 吧～**
+
+## 说明
+
+结果可[按学校查看](https://github.com/zjsxply/China-Discipline-Evaluation#%E7%BB%93%E6%9E%9C%E6%8C%89%E5%AD%A6%E6%A0%A1%E6%8E%92%E5%88%97%E6%8B%BC%E9%9F%B3%E5%BA%8F)，也[可按学科查看](https://github.com/zjsxply/China-Discipline-Evaluation#%E7%BB%93%E6%9E%9C%E6%8C%89%E5%AD%A6%E7%A7%91%E6%8E%92%E5%88%97)
 
 第二列是**原话**，第三列对模糊性表述进行推测或者给出第四轮结果以作参考
 
-正文只有等级数据，含**每条信息详细出处和备注**的完整数据截图可以拉到文章最后查看
+点击原话的链接可以查看**原始出处**。大部分原始来源都已存档于 [Wayback Machine](https://web.archive.org/)（网页）、[Archive.today](Archive.today)（公众号文章及 Wayback Machine 保存失败的网页）。若原文章被删或被修改，多数情况下仍可在以上网站搜索查看
 
-{school_count} 所学校，{discipline_count} 个学科，{data_count} 条数据，整理不易，**客官点个 Star 吧～**
+受限于网页表格的宽度，以下没有列出原始文章日期、标题、备注等等更详细的信息，其中在备注里可能解释了一些细节信息。完整数据可查看：[original_data.csv](https://github.com/zjsxply/China-Discipline-Evaluation/blob/main/original_data.csv)
 
 ## 结果按学校排列（拼音序）
 
@@ -37,10 +41,6 @@ TEMPLATE_README = '''# 第五轮学科评估官宣完全汇总（附出处）
 | 艺术学   | 艺术学理论、音乐与舞蹈学、戏剧与影视学、美术学、设计学       |
 
 {order_by_discipline}
-
-## 完整数据截图（含详细出处）
-
-![image](https://github.com/zjsxply/China-Discipline-Evaluation/blob/main/data.png?raw=true)
 '''
 
 DISCIPLINE_CODE = {

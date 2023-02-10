@@ -24,15 +24,10 @@ def format_data(df, sort='学校'):
         if last != xx:
             last = xx
             result += f'\n### {xx}\n\n'
-            result += f'''| {the_other} | 等级（原话） | 推测等级或第四轮等级 | 来源 |\n| -------------- | ------------------------------ | -------------------- | -------------------- |\n'''
-        if line['链接']:
-            title = {'微信公众号': '公众号', '网站': '网站'}.get(line['渠道'], line['来源'] if line['来源'] else '来源')
-            ly = '[{}]({})'.format(title, line['链接']) if line['链接'].startswith('http') else line['链接']
-            if line['存档']:
-                ly += ' [{}]({})'.format('存档', line['存档'])
-        else:
-            ly = line['渠道'] or line['来源'] or line['标题']
-        result += f'| {xk} | {jg} | {tc} | {ly} |\n'
+            result += f'''| {the_other} | 等级（原话） | 推测等级或第四轮等级 | \n| -------------- | ------------------------------ | -------------------- |\n'''
+        if line['链接'].startswith('http'):
+            jg = '[{}]({})'.format(jg, line['链接']) if line['链接'].startswith('http') else line['链接']
+        result += f'| {xk} | {jg} | {tc} |\n'
     return result
 
 def generate():
