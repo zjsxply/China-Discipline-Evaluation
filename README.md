@@ -4,7 +4,7 @@
 - 包括：微信公众号、官网、公开直播截图、官媒
 - 不包括：无法公开验证真实性的传言、聊天记录截图、转述
 
-177 所学校，92 个学科，628 条数据，整理不易，**客官点个 Star 吧～**
+190 所学校，93 个学科，717 条数据，整理不易，**客官点个 Star 吧～**
 
 ## 说明
 
@@ -12,7 +12,7 @@
 
 第二列是**原话**，第三列对模糊性表述进行推测或者给出第四轮结果以作参考
 
-点击原话的链接可以查看**原始出处**。大部分原始来源都已存档于 [Wayback Machine](https://web.archive.org/)（网页）、[Archive.today](Archive.today)（公众号文章及 Wayback Machine 保存失败的网页）。若原文章被删或被修改，多数情况下仍可在以上网站搜索查看
+点击原话的链接可以查看**原始出处**。大部分原始来源都已存档于 [Wayback Machine](https://web.archive.org/)（网页）、[Archive.today](https://archive.is/)（公众号文章及 Wayback Machine 保存失败的网页）。若原文章被删或被修改，多数情况下仍可在以上网站搜索查看
 
 受限于网页表格的宽度，以下没有列出原始文章日期、标题、备注等等更详细的信息，其中在备注里可能解释了一些细节信息。完整数据可查看：[original_data.csv](https://github.com/zjsxply/China-Discipline-Evaluation/blob/main/original_data.csv)
 
@@ -117,6 +117,7 @@
 | 交通运输工程 | [A-](https://bhpan.buaa.edu.cn/#/link/653DAF1585EDBA6DF9F8F79BAAB0A40F) |  |
 | 航空宇航科学与技术 | [A+](https://bhpan.buaa.edu.cn/#/link/653DAF1585EDBA6DF9F8F79BAAB0A40F) |  |
 | 生物医学工程 | [A+](https://bhpan.buaa.edu.cn/#/link/653DAF1585EDBA6DF9F8F79BAAB0A40F) |  |
+| 生物医学工程 | [进入顶尖学科行列，A+](https://mp.weixin.qq.com/s/LV_IEBm4kpt-Rypelb1FKQ) |  |
 | 软件工程 | [A+](https://bhpan.buaa.edu.cn/#/link/653DAF1585EDBA6DF9F8F79BAAB0A40F) |  |
 | 管理科学与工程 | [A+](https://bhpan.buaa.edu.cn/#/link/653DAF1585EDBA6DF9F8F79BAAB0A40F) |  |
 | 公共管理 | [A-](https://bhpan.buaa.edu.cn/#/link/653DAF1585EDBA6DF9F8F79BAAB0A40F) |  |
@@ -136,6 +137,16 @@
 | 学科 | 等级（原话） | 推测等级或第四轮等级 | 
 | -------------- | ------------------------------ | -------------------- |
 |  | [取得新突破](https://xww.bucea.edu.cn/tgx/04c18a23a9f440ed9ba63fcd434f2b01.htm) |  |
+
+### 北京交通大学
+
+| 学科 | 等级（原话） | 推测等级或第四轮等级 | 
+| -------------- | ------------------------------ | -------------------- |
+| 法学 | [跨越式进步](https://mp.weixin.qq.com/s/H6FvdjdGDy0fvF6Ydw6HEw) | 第四轮C |
+| 电子科学与技术 | [（学院）取得可喜进展](https://open.work.weixin.qq.com/wwopen/mpnews?mixuin=MThiDwAABwADrPV9AAAUAA&mfid=WW0321-pkB6ZwAABwBWBmbrZlOtiAYqrHq71&idx=0&sn=67acfc2cd3aa3eb77dd2095a2a5bc350) | 第四轮B- |
+| 信息与通信工程 | [（学院）取得可喜进展](https://open.work.weixin.qq.com/wwopen/mpnews?mixuin=MThiDwAABwADrPV9AAAUAA&mfid=WW0321-pkB6ZwAABwBWBmbrZlOtiAYqrHq71&idx=0&sn=67acfc2cd3aa3eb77dd2095a2a5bc350) | 第四轮A- |
+| 控制科学与工程 | [（学院）取得可喜进展](https://open.work.weixin.qq.com/wwopen/mpnews?mixuin=MThiDwAABwADrPV9AAAUAA&mfid=WW0321-pkB6ZwAABwBWBmbrZlOtiAYqrHq71&idx=0&sn=67acfc2cd3aa3eb77dd2095a2a5bc350) | 第四轮B- |
+| 交通运输工程 | [（学院）取得可喜进展](https://open.work.weixin.qq.com/wwopen/mpnews?mixuin=MThiDwAABwADrPV9AAAUAA&mfid=WW0321-pkB6ZwAABwBWBmbrZlOtiAYqrHq71&idx=0&sn=67acfc2cd3aa3eb77dd2095a2a5bc350) | 第四轮A- |
 
 ### 北京科技大学
 
@@ -359,6 +370,12 @@
 | 环境科学与工程 | [排名稳步前进](https://mp.weixin.qq.com/s/QOR_uH-5_VxRbJM_aU-W2A) | 第四轮B+ |
 | 环境科学与工程 | [全国前15%](https://power.seu.edu.cn/2022/0622/c9506a412401/page.htm) |  |
 
+### 对外经济贸易大学
+
+| 学科 | 等级（原话） | 推测等级或第四轮等级 | 
+| -------------- | ------------------------------ | -------------------- |
+| 法学 | [退步](https://mp.weixin.qq.com/s/H6FvdjdGDy0fvF6Ydw6HEw) | 第四轮A- |
+
 ### 福建师范大学
 
 | 学科 | 等级（原话） | 推测等级或第四轮等级 | 
@@ -366,6 +383,18 @@
 | 3个学科 | [位居A类(其中2个学科首进A档)](https://mp.weixin.qq.com/s/wZGfWlGOwROTSy9rGehtAg) | 第四轮3A-（马克思主义理论、体育学、音乐与舞蹈学） |
 | 18个学科 | [B类](https://mp.weixin.qq.com/s/wZGfWlGOwROTSy9rGehtAg) | 第四轮2B+（中国语言文学、地理学） 4B 6B- |
 | 14个学科 | [实现档次提升，占参评学科的46.67%](https://mp.weixin.qq.com/s/wZGfWlGOwROTSy9rGehtAg) | 30个参评学科 |
+
+### 阜阳师范大学
+
+| 学科 | 等级（原话） | 推测等级或第四轮等级 | 
+| -------------- | ------------------------------ | -------------------- |
+|  | [新突破](http://www.fynu.edu.cn/info/1052/52544.htm) |  |
+
+### 广东财经大学
+
+| 学科 | 等级（原话） | 推测等级或第四轮等级 | 
+| -------------- | ------------------------------ | -------------------- |
+| 法学 | [退步](https://mp.weixin.qq.com/s/H6FvdjdGDy0fvF6Ydw6HEw) | 第四轮B- |
 
 ### 广东工业大学
 
@@ -470,8 +499,17 @@
 
 | 学科 | 等级（原话） | 推测等级或第四轮等级 | 
 | -------------- | ------------------------------ | -------------------- |
+| 数学 | [B-](http://sxxy.hznu.edu.cn/c/2023-02-10/2801258.shtml) |  |
 | 美术学 | [保持了较好成绩](https://mp.weixin.qq.com/s/gl8fWA6kHdtU0eoRLClW3w) | 第四轮B- |
 | 设计学 | [取得较大突破](https://mp.weixin.qq.com/s/gl8fWA6kHdtU0eoRLClW3w) | 第四轮未在榜上 |
+
+### 河北中医学院
+
+| 学科 | 等级（原话） | 推测等级或第四轮等级 | 
+| -------------- | ------------------------------ | -------------------- |
+| 中医学 | [大幅增比晋位](https://mp.weixin.qq.com/s/uvTU72uxUvhSaaWWxiKZvw) | 第四轮C- |
+| 中西医结合 | [大幅增比晋位](https://mp.weixin.qq.com/s/uvTU72uxUvhSaaWWxiKZvw) | 第四轮C |
+| 中药学 | [大幅增比晋位](https://mp.weixin.qq.com/s/uvTU72uxUvhSaaWWxiKZvw) | 第四轮未在榜上 |
 
 ### 河海大学
 
@@ -492,7 +530,8 @@
 
 | 学科 | 等级（原话） | 推测等级或第四轮等级 | 
 | -------------- | ------------------------------ | -------------------- |
-| 畜牧学 | [光荣晋级](https://dwkjxy.henau.edu.cn/plus/list.php?tid=2) | 第四轮C+ |
+| 畜牧学 | [光荣晋级](https://dwkjxy.henau.edu.cn/plus/list.php?tid=2) | B-，第四轮C+ |
+| 兽医学 | [新的突破](https://mp.weixin.qq.com/s/xxYIXL7Hw5GwsCxZ_6YThA) |  |
 | 兽医学 | [取得不俗的成绩](https://www.henau.edu.cn/info/1114/34980.htm) | 第四轮B |
 
 ### 湖南大学
@@ -500,6 +539,7 @@
 | 学科 | 等级（原话） | 推测等级或第四轮等级 | 
 | -------------- | ------------------------------ | -------------------- |
 | 应用经济学 | [A类](https://mp.weixin.qq.com/s/gRpfdPbSEvNpKrmaOizCZw) | 第四轮B+ |
+| 机械工程 | [可喜进步](http://mve.hnu.edu.cn/info/1046/10445.htm) | 第四轮A- |
 | 电气工程 | [获佳绩](https://mp.weixin.qq.com/s/oaqFgFGOLglf8a646fIM6Q) | 第四轮B+ |
 | 控制科学与工程 | [获佳绩](https://mp.weixin.qq.com/s/oaqFgFGOLglf8a646fIM6Q) | 第四轮B |
 | 管理科学与工程 | [迈上新台阶](https://mp.weixin.qq.com/s/j6X0gIXjKgICdNq-ynLU6A) | B+ |
@@ -511,6 +551,13 @@
 | -------------- | ------------------------------ | -------------------- |
 | 农林经济管理 | [B-](https://eco.hunau.edu.cn/xwzx/202301/t20230109_366953.html) | 第四轮C+ |
 | 公共管理 | [优异成绩](https://gfxy.hunau.edu.cn/jxpy/bsspy/202212/t20221227_366780.html) |  |
+
+### 湖南师范大学
+
+| 学科 | 等级（原话） | 推测等级或第四轮等级 | 
+| -------------- | ------------------------------ | -------------------- |
+| 法学 | [退步](https://mp.weixin.qq.com/s/H6FvdjdGDy0fvF6Ydw6HEw) | 第四轮B |
+| 外国语言文学 | [历史性突破，跨越式发展，表现十分突出，实现重大突破](https://mp.weixin.qq.com/s/vG67ufG22OqZWw-7gZOpjQ) | 第四轮B+ |
 
 ### 华北电力大学
 
@@ -526,10 +573,18 @@
 | 11个学科 | [前72%](https://mp.weixin.qq.com/s/eeMHzjFOqm_3yU2wW95oRg) | 第四轮1B 1B- 1C+ 2C 3C-，C-及以上为前70% |
 | 水利工程 | [B+](https://www2.ncwu.edu.cn/jhxq/info/1121/1631.htm) |  |
 
+### 华东交通大学
+
+| 学科 | 等级（原话） | 推测等级或第四轮等级 | 
+| -------------- | ------------------------------ | -------------------- |
+| 电气工程 | [取得了进步](https://mp.weixin.qq.com/s/xyVJFCcR11EZJhb6V3X7Lg) | 第四轮未在榜上 |
+| 控制科学与工程 | [取得了进步](https://mp.weixin.qq.com/s/xyVJFCcR11EZJhb6V3X7Lg) | 第四轮B- |
+
 ### 华东理工大学
 
 | 学科 | 等级（原话） | 推测等级或第四轮等级 | 
 | -------------- | ------------------------------ | -------------------- |
+| 法学 | [跨越式进步](https://mp.weixin.qq.com/s/H6FvdjdGDy0fvF6Ydw6HEw) | 第四轮C |
 | 化学工程与技术 | [取得优异成绩](https://news.ecust.edu.cn/2023/0119/c6a170528/page.htm) | 第四轮A+ |
 | 生物医学工程 | [取得优异成绩](https://news.ecust.edu.cn/2023/0119/c6a170528/page.htm) | 第四轮未在榜上 |
 
@@ -540,6 +595,8 @@
 | 3个学科 | A+ | 第四轮教育学A+、世界史A+ |
 | 7个学科 | A | 第四轮体育学A、中国语言文学A、地理学A、统计学A、软件工程A |
 | 4个学科 | A- | 第四轮马克思主义理论A-、心理学A-、外国语言文学A-、数学A-、生态学A- |
+| 体育学 | [A+](https://hsc.ecnu.edu.cn/e0/17/c36406a450583/page.htm) |  |
+| 数学 | [A类](https://mp.weixin.qq.com/s/QNqSJ_W569uNSlkWK8re2g) | 第四轮A- |
 
 ### 华南理工大学
 
@@ -552,6 +609,7 @@
 | 学科 | 等级（原话） | 推测等级或第四轮等级 | 
 | -------------- | ------------------------------ | -------------------- |
 | 4个学科 | [A类](https://mp.weixin.qq.com/s/QxzV9NcQjPUZWvKvyM4jiw) | 教育学第四轮A- |
+| 法学 | [跨越式进步](https://mp.weixin.qq.com/s/H6FvdjdGDy0fvF6Ydw6HEw) | 第四轮C- |
 | 马克思主义理论 | [A](https://mp.weixin.qq.com/s/QxzV9NcQjPUZWvKvyM4jiw) | 第四轮A- |
 | 心理学 | [A+](https://mp.weixin.qq.com/s/QxzV9NcQjPUZWvKvyM4jiw) | 第四轮A+ |
 | 体育学 | [A-](https://statics.scnu.edu.cn/pics/zsb/2023/0111/1673409117150482.pdf) | 第四轮A- |
@@ -691,7 +749,8 @@
 | 各主干学科 | [均取得可喜进步](http://news.smu.edu.cn/info/1021/43536.htm) |  |
 | 临床医学 | [B+](http://www.nfyy.com/xwzx/yyxw/a_112570.html) |  |
 | 口腔医学 | [上升两个层级](https://mp.weixin.qq.com/s/wlFPzS6hFpwh959mA8G66A) | C+ |
-| 中西医结合 | [取得突破并实现学校既定目标](http://portal.smu.edu.cn/zyyxy/info/1035/4329.htm) | 第四轮B+ |
+| 中西医结合 | [取得突破并实现学校既定目标](http://portal.smu.edu.cn/zyyxy/info/1035/4329.htm) | A-，第四轮B+ |
+| 中西医结合 | [A类](https://mp.weixin.qq.com/s/kD_Q7MfztCzpGJUzh9ZOPg) | A- |
 
 ### 南华大学
 
@@ -709,6 +768,7 @@
 | 一批学科 | [优异成绩](https://mp.weixin.qq.com/s/vTe7slc3hT-K7vlZBil5iQ) |  |
 |  | [实现整体跨越](https://news.nju.edu.cn/zhxw/20230103/i111608.html) |  |
 | 理论经济学 | [优秀成绩](https://nubs.nju.edu.cn/8877/list.htm) | A |
+| 法学 | [再创历史佳绩](https://mp.weixin.qq.com/s/JBVkj6fG6udK-shs6SNbaw) | 第四轮A- |
 | 外国语言文学 | [优异成绩](https://sfs.nju.edu.cn/10728/list.htm) | A+ |
 | 数学 | [取得优秀成绩，再上新台阶](https://mp.weixin.qq.com/s/5IJIwkUzh7IWtGIvZ_3PlQ) | A |
 | 物理学 | [优异成绩](https://mp.weixin.qq.com/s/d1XwNAKawdSAkQDdQwZ2PQ) | A+ |
@@ -727,6 +787,14 @@
 | 学科 | 等级（原话） | 推测等级或第四轮等级 | 
 | -------------- | ------------------------------ | -------------------- |
 |  | [取得新突破](https://newsweb.nuaa.edu.cn/2023/0110/c743a301917/page.htm) |  |
+| 法学 | [跨越式进步](https://mp.weixin.qq.com/s/H6FvdjdGDy0fvF6Ydw6HEw) | 第四轮未在榜上 |
+| 力学 | [位于国内高校前列](https://mp.weixin.qq.com/s/9p6j-_bXQgMuL8xs6RY6-A) | A类，第四轮A- |
+| 机械工程 | [位于国内高校前列](https://mp.weixin.qq.com/s/9p6j-_bXQgMuL8xs6RY6-A) | A类，第四轮A- |
+| 信息与通信工程 | [位于国内高校前列](https://mp.weixin.qq.com/s/9p6j-_bXQgMuL8xs6RY6-A) | A类，第四轮B |
+| 控制科学与工程 | [位于国内高校前列](https://mp.weixin.qq.com/s/9p6j-_bXQgMuL8xs6RY6-A) | A类，第四轮B+ |
+| 航空宇航科学与技术 | [位于国内高校前列](https://mp.weixin.qq.com/s/9p6j-_bXQgMuL8xs6RY6-A) | A类，第四轮B+ |
+| 软件工程 | [位于国内高校前列](https://mp.weixin.qq.com/s/9p6j-_bXQgMuL8xs6RY6-A) | A类，第四轮B+ |
+| 管理科学与工程 | [位于国内高校前列](https://mp.weixin.qq.com/s/9p6j-_bXQgMuL8xs6RY6-A) | A类，第四轮A- |
 
 ### 南京理工大学
 
@@ -822,6 +890,12 @@
 | -------------- | ------------------------------ | -------------------- |
 | 美术学 | [取得新突破](https://mp.weixin.qq.com/s/6tZiu38Mi4iyFoCpUTR3Vg) |  |
 
+### 内蒙古大学
+
+| 学科 | 等级（原话） | 推测等级或第四轮等级 | 
+| -------------- | ------------------------------ | -------------------- |
+| 法学 | [退步](https://mp.weixin.qq.com/s/H6FvdjdGDy0fvF6Ydw6HEw) | 第四轮C+ |
+
 ### 内蒙古农业大学
 
 | 学科 | 等级（原话） | 推测等级或第四轮等级 | 
@@ -833,6 +907,12 @@
 | 学科 | 等级（原话） | 推测等级或第四轮等级 | 
 | -------------- | ------------------------------ | -------------------- |
 |  | [取得重大突破](https://www.qqhru.edu.cn/info/1044/18519.htm) | 第四轮0个学科上榜 |
+
+### 青岛大学
+
+| 学科 | 等级（原话） | 推测等级或第四轮等级 | 
+| -------------- | ------------------------------ | -------------------- |
+| 法学 | [跨越式进步](https://mp.weixin.qq.com/s/H6FvdjdGDy0fvF6Ydw6HEw) | 第四轮C- |
 
 ### 青岛农业大学
 
@@ -896,6 +976,7 @@
 
 | 学科 | 等级（原话） | 推测等级或第四轮等级 | 
 | -------------- | ------------------------------ | -------------------- |
+| 法学 | [退步](https://mp.weixin.qq.com/s/H6FvdjdGDy0fvF6Ydw6HEw) | 第四轮C |
 | 统计学 | [保持B类水平](http://news.sxufe.edu.cn/info/1004/26474.htm) |  |
 
 ### 山西大学
@@ -1020,9 +1101,42 @@
 
 | 学科 | 等级（原话） | 推测等级或第四轮等级 | 
 | -------------- | ------------------------------ | -------------------- |
+| 仪器科学与工程 | [A+](https://mp.weixin.qq.com/s?__biz=MzA5NTQwOTgzMg==&mid=2651480023&idx=1&sn=2259a3d48bf396c4b8626d91a7742be1&scene=21#wechat_redirect) |  |
+| 建筑工程 | [A+](https://mp.weixin.qq.com/s?__biz=MzA5NTQwOTgzMg==&mid=2651480023&idx=1&sn=2259a3d48bf396c4b8626d91a7742be1&scene=21#wechat_redirect) |  |
+| 舶舶与海洋工程 | [A-](https://mp.weixin.qq.com/s?__biz=MzA5NTQwOTgzMg==&mid=2651480023&idx=1&sn=2259a3d48bf396c4b8626d91a7742be1&scene=21#wechat_redirect) |  |
+| 风景园林 | [A-](https://mp.weixin.qq.com/s?__biz=MzA5NTQwOTgzMg==&mid=2651480023&idx=1&sn=2259a3d48bf396c4b8626d91a7742be1&scene=21#wechat_redirect) |  |
+| 法学 | [B+](https://mp.weixin.qq.com/s?__biz=MzA5NTQwOTgzMg==&mid=2651480023&idx=1&sn=2259a3d48bf396c4b8626d91a7742be1&scene=21#wechat_redirect) |  |
+| 马克思主义理论 | [B+](https://mp.weixin.qq.com/s?__biz=MzA5NTQwOTgzMg==&mid=2651480023&idx=1&sn=2259a3d48bf396c4b8626d91a7742be1&scene=21#wechat_redirect) |  |
+| 教育学 | [A-](https://mp.weixin.qq.com/s?__biz=MzA5NTQwOTgzMg==&mid=2651480023&idx=1&sn=2259a3d48bf396c4b8626d91a7742be1&scene=21#wechat_redirect) |  |
+| 数学 | [A-](https://mp.weixin.qq.com/s?__biz=MzA5NTQwOTgzMg==&mid=2651480023&idx=1&sn=2259a3d48bf396c4b8626d91a7742be1&scene=21#wechat_redirect) |  |
+| 物理学 | [B+](https://mp.weixin.qq.com/s?__biz=MzA5NTQwOTgzMg==&mid=2651480023&idx=1&sn=2259a3d48bf396c4b8626d91a7742be1&scene=21#wechat_redirect) |  |
+| 化学 | [A-](https://mp.weixin.qq.com/s?__biz=MzA5NTQwOTgzMg==&mid=2651480023&idx=1&sn=2259a3d48bf396c4b8626d91a7742be1&scene=21#wechat_redirect) |  |
+| 海洋科学 | [B](https://mp.weixin.qq.com/s?__biz=MzA5NTQwOTgzMg==&mid=2651480023&idx=1&sn=2259a3d48bf396c4b8626d91a7742be1&scene=21#wechat_redirect) |  |
+| 生物学 | [B](https://mp.weixin.qq.com/s?__biz=MzA5NTQwOTgzMg==&mid=2651480023&idx=1&sn=2259a3d48bf396c4b8626d91a7742be1&scene=21#wechat_redirect) |  |
+| 力学 | [A-](https://mp.weixin.qq.com/s?__biz=MzA5NTQwOTgzMg==&mid=2651480023&idx=1&sn=2259a3d48bf396c4b8626d91a7742be1&scene=21#wechat_redirect) |  |
+| 机械工程 | [A](https://mp.weixin.qq.com/s?__biz=MzA5NTQwOTgzMg==&mid=2651480023&idx=1&sn=2259a3d48bf396c4b8626d91a7742be1&scene=21#wechat_redirect) |  |
+| 光学工程 | [A+](https://mp.weixin.qq.com/s?__biz=MzA5NTQwOTgzMg==&mid=2651480023&idx=1&sn=2259a3d48bf396c4b8626d91a7742be1&scene=21#wechat_redirect) |  |
+| 材料科学与工程 | [A-](https://mp.weixin.qq.com/s?__biz=MzA5NTQwOTgzMg==&mid=2651480023&idx=1&sn=2259a3d48bf396c4b8626d91a7742be1&scene=21#wechat_redirect) |  |
+| 动力工程及工程热物理 | [A](https://mp.weixin.qq.com/s?__biz=MzA5NTQwOTgzMg==&mid=2651480023&idx=1&sn=2259a3d48bf396c4b8626d91a7742be1&scene=21#wechat_redirect) |  |
+| 电气工程 | [A-](https://mp.weixin.qq.com/s?__biz=MzA5NTQwOTgzMg==&mid=2651480023&idx=1&sn=2259a3d48bf396c4b8626d91a7742be1&scene=21#wechat_redirect) |  |
+| 电子科学与技术 | [A-](https://mp.weixin.qq.com/s?__biz=MzA5NTQwOTgzMg==&mid=2651480023&idx=1&sn=2259a3d48bf396c4b8626d91a7742be1&scene=21#wechat_redirect) |  |
+| 信息与通信工程 | [B+](https://mp.weixin.qq.com/s?__biz=MzA5NTQwOTgzMg==&mid=2651480023&idx=1&sn=2259a3d48bf396c4b8626d91a7742be1&scene=21#wechat_redirect) |  |
+| 控制科学与工程 | [B+](https://mp.weixin.qq.com/s?__biz=MzA5NTQwOTgzMg==&mid=2651480023&idx=1&sn=2259a3d48bf396c4b8626d91a7742be1&scene=21#wechat_redirect) |  |
+| 计算机科学与技术 | [A-](https://mp.weixin.qq.com/s?__biz=MzA5NTQwOTgzMg==&mid=2651480023&idx=1&sn=2259a3d48bf396c4b8626d91a7742be1&scene=21#wechat_redirect) |  |
 | 土木工程 | [三个学科均取得了全面提升](http://jgxy.tju.edu.cn/xygk.htm) | 第四轮A- |
+| 土木工程 | [A](https://mp.weixin.qq.com/s?__biz=MzA5NTQwOTgzMg==&mid=2651480023&idx=1&sn=2259a3d48bf396c4b8626d91a7742be1&scene=21#wechat_redirect) |  |
 | 水利工程 | [三个学科均取得了全面提升](http://jgxy.tju.edu.cn/xygk.htm) | 第四轮A- |
+| 水利工程 | [A](https://mp.weixin.qq.com/s?__biz=MzA5NTQwOTgzMg==&mid=2651480023&idx=1&sn=2259a3d48bf396c4b8626d91a7742be1&scene=21#wechat_redirect) |  |
+| 化学工程与技术 | [A+](https://mp.weixin.qq.com/s?__biz=MzA5NTQwOTgzMg==&mid=2651480023&idx=1&sn=2259a3d48bf396c4b8626d91a7742be1&scene=21#wechat_redirect) |  |
 | 船舶与海洋工程 | [三个学科均取得了全面提升](http://jgxy.tju.edu.cn/xygk.htm) | 第四轮B |
+| 环境科学与工程 | [A-](https://mp.weixin.qq.com/s?__biz=MzA5NTQwOTgzMg==&mid=2651480023&idx=1&sn=2259a3d48bf396c4b8626d91a7742be1&scene=21#wechat_redirect) |  |
+| 生物医学工程 | [A](https://mp.weixin.qq.com/s?__biz=MzA5NTQwOTgzMg==&mid=2651480023&idx=1&sn=2259a3d48bf396c4b8626d91a7742be1&scene=21#wechat_redirect) |  |
+| 城乡规划学 | [A-](https://mp.weixin.qq.com/s?__biz=MzA5NTQwOTgzMg==&mid=2651480023&idx=1&sn=2259a3d48bf396c4b8626d91a7742be1&scene=21#wechat_redirect) |  |
+| 软件工程 | [A-](https://mp.weixin.qq.com/s?__biz=MzA5NTQwOTgzMg==&mid=2651480023&idx=1&sn=2259a3d48bf396c4b8626d91a7742be1&scene=21#wechat_redirect) |  |
+| 药学 | [B](https://mp.weixin.qq.com/s?__biz=MzA5NTQwOTgzMg==&mid=2651480023&idx=1&sn=2259a3d48bf396c4b8626d91a7742be1&scene=21#wechat_redirect) |  |
+| 管理科学与工程 | [A+](https://mp.weixin.qq.com/s?__biz=MzA5NTQwOTgzMg==&mid=2651480023&idx=1&sn=2259a3d48bf396c4b8626d91a7742be1&scene=21#wechat_redirect) |  |
+| 工商管理 | [A-](https://mp.weixin.qq.com/s?__biz=MzA5NTQwOTgzMg==&mid=2651480023&idx=1&sn=2259a3d48bf396c4b8626d91a7742be1&scene=21#wechat_redirect) |  |
+| 公共管理 | [B+](https://mp.weixin.qq.com/s?__biz=MzA5NTQwOTgzMg==&mid=2651480023&idx=1&sn=2259a3d48bf396c4b8626d91a7742be1&scene=21#wechat_redirect) |  |
 
 ### 天津美术学院
 
@@ -1100,15 +1214,22 @@
 
 | 学科 | 等级（原话） | 推测等级或第四轮等级 | 
 | -------------- | ------------------------------ | -------------------- |
-|  | [拥有B类学科](https://news.xpu.edu.cn/info/1003/15371.htm) |  |
+| 上榜学科 | [数量显著增加](https://news.xpu.edu.cn/info/1003/15371.htm) |  |
+| 5个学科 | [上榜](https://mp.weixin.qq.com/s/wBjIeW-REab4eccDYcYJ0Q) |  |
+| 参评学科 | [上榜率为50%](https://mp.weixin.qq.com/s/wBjIeW-REab4eccDYcYJ0Q) |  |
+| 学校排位进入前40%学科数 | [首次实现零的突破](https://mp.weixin.qq.com/s/wBjIeW-REab4eccDYcYJ0Q) |  |
+| 纺织科学与工程 | [西北地区唯一进入B类的纺织学科](https://news.xpu.edu.cn/info/1003/15371.htm) |  |
 
 ### 西安建筑科技大学
 
 | 学科 | 等级（原话） | 推测等级或第四轮等级 | 
 | -------------- | ------------------------------ | -------------------- |
 | 建筑学 | [重要突破](https://news.xauat.edu.cn/jdyw/2023-02-07/19285.html) | 第四轮B+ |
+| 建筑学 | [里程碑式的成绩](https://mp.weixin.qq.com/s/qJvKVgoQVu_GvIxfeT5dgw) | 第四轮B+ |
 | 土木工程 | [重要突破](https://news.xauat.edu.cn/jdyw/2023-02-07/19285.html) | 第四轮B+ |
+| 土木工程 | [里程碑式的成绩](https://mp.weixin.qq.com/s/qJvKVgoQVu_GvIxfeT5dgw) | 第四轮B+ |
 | 环境科学与工程 | [重要突破](https://news.xauat.edu.cn/jdyw/2023-02-07/19285.html) | 第四轮B+ |
+| 环境科学与工程 | [里程碑式的成绩](https://mp.weixin.qq.com/s/qJvKVgoQVu_GvIxfeT5dgw) | 第四轮B+ |
 
 ### 西安交通大学
 
@@ -1116,7 +1237,9 @@
 | -------------- | ------------------------------ | -------------------- |
 | 5个学科 | [A+，位列全国前两名或前2%](https://zhibo.xjtu.edu.cn/vod-show-detail/667) | 第四轮2A+（动力工程及工程热物理、电气工程）、4A（数学、力学、机械工程、工商管理） |
 | 理论经济学 | [取得新突破](http://news.xjtu.edu.cn/info/1219/191530.htm) | 第四轮C- |
+| 法学 | [跨越式进步](https://mp.weixin.qq.com/s/H6FvdjdGDy0fvF6Ydw6HEw) | 第四轮B- |
 | 化学 | [提高两档](https://mp.weixin.qq.com/s/A2Lsp54kxmsCG5LnYQS_kg) | B |
+| 电气工程 | [优异成绩，持续保持领头羊地位](https://mp.weixin.qq.com/s/vi_jW920WmjWH02xjSmZFA) | A+ |
 | 核科学与技术 | [A+](https://mp.weixin.qq.com/s/H6uq7-5L1dNZ8IDzjl_2-g) | 第四轮B+ |
 
 ### 西安科技大学
@@ -1125,6 +1248,12 @@
 | -------------- | ------------------------------ | -------------------- |
 | 矿业工程 | [实现历史性突破](http://news.xust.edu.cn/info/1002/26132.htm) | 第四轮C+ |
 | 安全科学与工程 | [实现历史性突破](http://news.xust.edu.cn/info/1002/26132.htm) | 第四轮A- |
+
+### 西安理工大学
+
+| 学科 | 等级（原话） | 推测等级或第四轮等级 | 
+| -------------- | ------------------------------ | -------------------- |
+| 电气工程 | [相较第四轮的C+有了进一步提升](https://mp.weixin.qq.com/s/xS-EJ-5nwH1CCgEkORkcXg) | B- |
 
 ### 西安美术学院
 
@@ -1198,6 +1327,7 @@
 
 | 学科 | 等级（原话） | 推测等级或第四轮等级 | 
 | -------------- | ------------------------------ | -------------------- |
+| 法学 | [退步](https://mp.weixin.qq.com/s/H6FvdjdGDy0fvF6Ydw6HEw) | 第四轮C |
 | 民族学 | [重大突破](https://news.swun.edu.cn/info/1004/73275.htm) | 第四轮B+ |
 
 ### 西南医科大学
@@ -1241,6 +1371,12 @@
 | -------------- | ------------------------------ | -------------------- |
 | 机械工程 | [发展再创佳绩，实现了我校学科建设的重大突破。](https://mp.weixin.qq.com/s/vn-MeA5JyUE5_BaUZeWEjA) | 第四轮A- |
 | 材料科学与工程 | [发展再创佳绩，实现了我校学科建设的重大突破。](https://mp.weixin.qq.com/s/vn-MeA5JyUE5_BaUZeWEjA) | 第四轮B+ |
+
+### 烟台大学
+
+| 学科 | 等级（原话） | 推测等级或第四轮等级 | 
+| -------------- | ------------------------------ | -------------------- |
+| 法学 | [退步](https://mp.weixin.qq.com/s/H6FvdjdGDy0fvF6Ydw6HEw) | 第四轮B |
 
 ### 扬州大学
 
@@ -1412,6 +1548,8 @@
 | 学科 | 等级（原话） | 推测等级或第四轮等级 | 
 | -------------- | ------------------------------ | -------------------- |
 |  | [再次争先进位](https://mp.weixin.qq.com/s/6e1SHJnHiZqYVi8nT8NVew) |  |
+| 交通运输工程 | [进入B段](https://mp.weixin.qq.com/s/f0K_73LAibyVHTZBPOVERA) | 第四轮C+ |
+| 安全科学与工程 | [进入B段](https://mp.weixin.qq.com/s/f0K_73LAibyVHTZBPOVERA) | 第四轮C+ |
 
 ### 中国农业大学
 
@@ -1433,6 +1571,12 @@
 | 兽医学 | [农学门类学科全部获A以上成绩](https://news.cau.edu.cn/art/2023/1/3/art_8769_895604.html) | 第四轮A+ |
 | 草学 | [农学门类学科全部获A以上成绩](https://news.cau.edu.cn/art/2023/1/3/art_8769_895604.html) | 第四轮A+ |
 
+### 中国农业科学院
+
+| 学科 | 等级（原话） | 推测等级或第四轮等级 | 
+| -------------- | ------------------------------ | -------------------- |
+| 园艺学 | [跻身顶尖学科](https://mp.weixin.qq.com/s/BFEVuygU5WhUUxtGZU7D8g) | 第四轮B+ |
+
 ### 中国人民大学
 
 | 学科 | 等级（原话） | 推测等级或第四轮等级 | 
@@ -1442,6 +1586,7 @@
 | 理论经济学 | [优优](https://mp.weixin.qq.com/s/P7747JgNINoUt01BI4i01g) | A+ |
 | 应用经济学 | [优优](https://mp.weixin.qq.com/s/P7747JgNINoUt01BI4i01g) | A+ |
 | 法学 | [优优](https://mp.weixin.qq.com/s/P7747JgNINoUt01BI4i01g) | A+ |
+| 法学 | [优异成绩](https://mp.weixin.qq.com/s/qcgbBu7D7EdNLEy24_Fn5A) |  |
 | 政治学 | [强优](https://mp.weixin.qq.com/s/P7747JgNINoUt01BI4i01g) | A |
 | 社会学 | [优优](https://mp.weixin.qq.com/s/P7747JgNINoUt01BI4i01g) | A+ |
 | 马克思主义理论 | [优优](https://mp.weixin.qq.com/s/P7747JgNINoUt01BI4i01g) | A+ |
@@ -1452,6 +1597,7 @@
 | 统计学 | [优优](https://mp.weixin.qq.com/s/P7747JgNINoUt01BI4i01g) | A+ |
 | 计算机科学与技术 | [强优](https://mp.weixin.qq.com/s/P7747JgNINoUt01BI4i01g) | A |
 | 计算机科学与技术 | [取得跨越式发展，进入国内第一方阵](https://mp.weixin.qq.com/s/4-QhEPUlSdMJAjXDfZBm2w) | A |
+| 计算机科学与技术 | [在第五轮学科评估中被推为强优学科](https://mp.weixin.qq.com/s/dneLZ67GRAhA1DQ8DTYL-w) | A |
 | 工商管理 | [优优](https://mp.weixin.qq.com/s/P7747JgNINoUt01BI4i01g) | A+ |
 | 农林经济管理 | [优优](https://mp.weixin.qq.com/s/P7747JgNINoUt01BI4i01g) | A+ |
 | 公共管理 | [优优](https://mp.weixin.qq.com/s/P7747JgNINoUt01BI4i01g) | A+ |
@@ -1462,6 +1608,7 @@
 | 学科 | 等级（原话） | 推测等级或第四轮等级 | 
 | -------------- | ------------------------------ | -------------------- |
 | 近半数一级博士点学科 | [迈上新台阶，其中A类学科占比达30%](https://www.cup.edu.cn/news/sx/ab8da96e638d4c4eabb74752bcc71bfa.htm) |  |
+| 地质资源与地质工程 | [A+](https://mp.weixin.qq.com/s/V6NlMVaj2T5LMbjmPMm9MQ) |  |
 
 ### 中国石油大学（北京）
 
@@ -1522,6 +1669,7 @@
 | 学科 | 等级（原话） | 推测等级或第四轮等级 | 
 | -------------- | ------------------------------ | -------------------- |
 |  | [历史性突破，成绩斐然](https://mp.weixin.qq.com/s/Z_C8hEzvEaWwdkmsgSU_pg) |  |
+| 法学 | [取得佳绩，学科发展迈上新的台阶](https://mp.weixin.qq.com/s/-hDI7HoSmSbKvl99hKzWeA) | 第四轮B+ |
 | 数学 | [A-](https://mp.weixin.qq.com/s/2-2_GC3kFsGYTfxZxsspng) |  |
 | 物理学 | [A](https://mp.weixin.qq.com/s/2-2_GC3kFsGYTfxZxsspng) |  |
 | 化学 | [A](https://mp.weixin.qq.com/s/2-2_GC3kFsGYTfxZxsspng) | 第四轮A- |
@@ -1531,6 +1679,12 @@
 | 公共卫生与预防医学 | [在第四轮B+的基础上连升两级](https://mp.weixin.qq.com/s/jS0_h4XLjOqGcHytBQQX4Q) | A |
 | 工商管理 | [A+](https://bus.sysu.edu.cn/article/9768) |  |
 | 公共管理 | [A+](https://mp.weixin.qq.com/s/BWIgBWixt_pjGI-J44gaAw) |  |
+
+### 中央民族大学
+
+| 学科 | 等级（原话） | 推测等级或第四轮等级 | 
+| -------------- | ------------------------------ | -------------------- |
+| 新闻传播学 | [再上台阶](https://mp.weixin.qq.com/s/JyFPyp1vbGIPcRvuPnLZfQ) | C+，第四轮C |
 
 
 ## 结果按学科排列
@@ -1598,15 +1752,32 @@
 | 学校 | 等级（原话） | 推测等级或第四轮等级 | 
 | -------------- | ------------------------------ | -------------------- |
 | 北京航空航天大学 | [B+](https://bhpan.buaa.edu.cn/#/link/653DAF1585EDBA6DF9F8F79BAAB0A40F) |  |
+| 北京交通大学 | [跨越式进步](https://mp.weixin.qq.com/s/H6FvdjdGDy0fvF6Ydw6HEw) | 第四轮C |
+| 对外经济贸易大学 | [退步](https://mp.weixin.qq.com/s/H6FvdjdGDy0fvF6Ydw6HEw) | 第四轮A- |
+| 广东财经大学 | [退步](https://mp.weixin.qq.com/s/H6FvdjdGDy0fvF6Ydw6HEw) | 第四轮B- |
+| 湖南师范大学 | [退步](https://mp.weixin.qq.com/s/H6FvdjdGDy0fvF6Ydw6HEw) | 第四轮B |
+| 华东理工大学 | [跨越式进步](https://mp.weixin.qq.com/s/H6FvdjdGDy0fvF6Ydw6HEw) | 第四轮C |
+| 华南师范大学 | [跨越式进步](https://mp.weixin.qq.com/s/H6FvdjdGDy0fvF6Ydw6HEw) | 第四轮C- |
 | 暨南大学 | [新的突破](https://law.jnu.edu.cn/2023/0114/c1235a735041/page.htm) |  |
+| 南京大学 | [再创历史佳绩](https://mp.weixin.qq.com/s/JBVkj6fG6udK-shs6SNbaw) | 第四轮A- |
+| 南京航空航天大学 | [跨越式进步](https://mp.weixin.qq.com/s/H6FvdjdGDy0fvF6Ydw6HEw) | 第四轮未在榜上 |
+| 内蒙古大学 | [退步](https://mp.weixin.qq.com/s/H6FvdjdGDy0fvF6Ydw6HEw) | 第四轮C+ |
+| 青岛大学 | [跨越式进步](https://mp.weixin.qq.com/s/H6FvdjdGDy0fvF6Ydw6HEw) | 第四轮C- |
 | 山东大学 | [历史性突破](https://mp.weixin.qq.com/s/O8S-R0dKJgzK1GBqWCgLEg) | A- |
+| 山西财经大学 | [退步](https://mp.weixin.qq.com/s/H6FvdjdGDy0fvF6Ydw6HEw) | 第四轮C |
 | 上海财经大学 | [取得突破](https://mp.weixin.qq.com/s/2kXk5M5QPk08o8h8z9RmLA) | 第四轮B |
+| 天津大学 | [B+](https://mp.weixin.qq.com/s?__biz=MzA5NTQwOTgzMg==&mid=2651480023&idx=1&sn=2259a3d48bf396c4b8626d91a7742be1&scene=21#wechat_redirect) |  |
 | 武汉大学 | A+ |  |
 | 武汉大学 | [取得佳绩，学科发展迈上新的台阶，取得历史性进展](https://law.whu.edu.cn/info/1051/12682.htm) | A+ |
+| 西安交通大学 | [跨越式进步](https://mp.weixin.qq.com/s/H6FvdjdGDy0fvF6Ydw6HEw) | 第四轮B- |
+| 西南民族大学 | [退步](https://mp.weixin.qq.com/s/H6FvdjdGDy0fvF6Ydw6HEw) | 第四轮C |
 | 湘潭大学 | [在第四轮学科评估B+等级的基础上再续佳绩](https://mp.weixin.qq.com/s/oJXU535kFS3R6MF_v6FEMw) |  |
+| 烟台大学 | [退步](https://mp.weixin.qq.com/s/H6FvdjdGDy0fvF6Ydw6HEw) | 第四轮B |
 | 中国人民大学 | [优优](https://mp.weixin.qq.com/s/P7747JgNINoUt01BI4i01g) | A+ |
+| 中国人民大学 | [优异成绩](https://mp.weixin.qq.com/s/qcgbBu7D7EdNLEy24_Fn5A) |  |
 | 中国政法大学 | [连续多年名列第一](https://news.cupl.edu.cn/info/1011/36989.htm) | A+ |
 | 中南财经政法大学 | [跃上新台阶](https://mp.weixin.qq.com/s/EJx_-uEgme9_6V4CWZqZ5w) | A |
+| 中山大学 | [取得佳绩，学科发展迈上新的台阶](https://mp.weixin.qq.com/s/-hDI7HoSmSbKvl99hKzWeA) | 第四轮B+ |
 
 ### 政治学
 
@@ -1638,6 +1809,7 @@
 | 江西师范大学 | [A类](https://mp.weixin.qq.com/s/bWjitqhE18qyb4VQYr1W5w) |  |
 | 南京理工大学 | 十四五目标B+，标灰色字体 | 第四轮B- |
 | 南宁师范大学 | 提升2个档次 | C+ |
+| 天津大学 | [B+](https://mp.weixin.qq.com/s?__biz=MzA5NTQwOTgzMg==&mid=2651480023&idx=1&sn=2259a3d48bf396c4b8626d91a7742be1&scene=21#wechat_redirect) |  |
 | 武汉大学 | [A+](https://mp.weixin.qq.com/s/HVjiS2K7RmwyRkEGM0Pmcw) |  |
 | 湘潭大学 | [取得了重大突破](https://mp.weixin.qq.com/s/XVm_l2oYApgwUl58yOYbMQ) | A- |
 | 中国人民大学 | [优优](https://mp.weixin.qq.com/s/P7747JgNINoUt01BI4i01g) | A+ |
@@ -1651,6 +1823,7 @@
 | 清华大学 | A序列 | 第四轮B+ |
 | 陕西师范大学 | [取得优异成绩](https://www.snnu.edu.cn/info/1272/30852.htm) | 第四轮B+ |
 | 沈阳师范大学 | [B](https://www.synu.edu.cn/786/list.htm) |  |
+| 天津大学 | [A-](https://mp.weixin.qq.com/s?__biz=MzA5NTQwOTgzMg==&mid=2651480023&idx=1&sn=2259a3d48bf396c4b8626d91a7742be1&scene=21#wechat_redirect) |  |
 | 西南大学 | [稳步上升](http://jyxb.swu.edu.cn/s/jyxb/index1sub2/20230118/4936277.html) | 第四轮A- |
 
 ### 心理学
@@ -1665,6 +1838,7 @@
 
 | 学校 | 等级（原话） | 推测等级或第四轮等级 | 
 | -------------- | ------------------------------ | -------------------- |
+| 华东师范大学 | [A+](https://hsc.ecnu.edu.cn/e0/17/c36406a450583/page.htm) |  |
 | 华南师范大学 | [A-](https://statics.scnu.edu.cn/pics/zsb/2023/0111/1673409117150482.pdf) | 第四轮A- |
 | 武汉体育学院 | [提档升级](https://mp.weixin.qq.com/s/QXSvkZQZi5UAo38-0mwOVw) | A |
 
@@ -1687,6 +1861,7 @@
 | 北京航空航天大学 | [A](https://mp.weixin.qq.com/s/trCkPQ7CEPsmzdx7JT3H-Q) |  |
 | 北京航空航天大学 | [A](https://bhpan.buaa.edu.cn/#/link/653DAF1585EDBA6DF9F8F79BAAB0A40F) |  |
 | 大连外国语大学 | [取得重要进展，成绩有大幅进步](https://mp.weixin.qq.com/s/7DlNMh2Jq-dfPBGD2uqq9g) | 第四轮B |
+| 湖南师范大学 | [历史性突破，跨越式发展，表现十分突出，实现重大突破](https://mp.weixin.qq.com/s/vG67ufG22OqZWw-7gZOpjQ) | 第四轮B+ |
 | 南京大学 | [优异成绩](https://sfs.nju.edu.cn/10728/list.htm) | A+ |
 | 山东大学 | 历史性突破 | A，第四轮A- |
 | 上海交通大学 | [A+](https://sfl.sjtu.edu.cn/Data/List/xygk) |  |
@@ -1702,6 +1877,7 @@
 | -------------- | ------------------------------ | -------------------- |
 | 北京大学 | [表现优秀](https://news.pku.edu.cn/xwzh/9d174abb6e6642c49086616473b316f7.htm) | 第四轮B+ |
 | 中国人民大学 | [优优](https://mp.weixin.qq.com/s/P7747JgNINoUt01BI4i01g) | A+ |
+| 中央民族大学 | [再上台阶](https://mp.weixin.qq.com/s/JyFPyp1vbGIPcRvuPnLZfQ) | C+，第四轮C |
 
 ### 考古学
 
@@ -1730,7 +1906,9 @@
 | 北京航空航天大学 | [优秀成绩](https://math.buaa.edu.cn/info/1056/9230.htm) |  |
 | 北京理工大学 | 优势学科（标蓝） | A- |
 | 东南大学 | [成绩优秀](https://mp.weixin.qq.com/s/3ql_MMbA6lFgMsFBtLM0lQ) | 第四轮未在榜上 |
+| 杭州师范大学 | [B-](http://sxxy.hznu.edu.cn/c/2023-02-10/2801258.shtml) |  |
 | 河南大学 | [（数学与统计学院）取得可喜成绩](http://news.henu.edu.cn/info/1084/123113.htm) | 第四轮C+ |
+| 华东师范大学 | [A类](https://mp.weixin.qq.com/s/QNqSJ_W569uNSlkWK8re2g) | 第四轮A- |
 | 江西师范大学 | [B类](https://mp.weixin.qq.com/s/bWjitqhE18qyb4VQYr1W5w) |  |
 | 南京大学 | [取得优秀成绩，再上新台阶](https://mp.weixin.qq.com/s/5IJIwkUzh7IWtGIvZ_3PlQ) | A |
 | 南京理工大学 | 十四五目标B+，标灰色字体 | 第四轮B- |
@@ -1739,6 +1917,7 @@
 | 山东大学 | [A+](https://job.cingta.com/detail/185513?jid=384192) |  |
 | 山东大学 | [再获佳绩](https://mp.weixin.qq.com/s/Uq_ch31FVeEN9Z9CuJNimg) | A+ |
 | 山东师范大学 | [B](http://www.maths.sdnu.edu.cn/info/1056/5764.htm) | 第四轮B- |
+| 天津大学 | [A-](https://mp.weixin.qq.com/s?__biz=MzA5NTQwOTgzMg==&mid=2651480023&idx=1&sn=2259a3d48bf396c4b8626d91a7742be1&scene=21#wechat_redirect) |  |
 | 湘潭大学 | [取得了重大突破](https://mp.weixin.qq.com/s/XVm_l2oYApgwUl58yOYbMQ) | A- |
 | 信阳师范学院 | [C-](https://news.xynu.edu.cn/info/1002/17504.htm) |  |
 | 浙江大学 | A+ |  |
@@ -1754,6 +1933,7 @@
 | 华中科技大学 | [迈上新的历史台阶](https://mp.weixin.qq.com/s/2SHl7as_UoD-gsUouEjX9g) | A |
 | 南京大学 | [优异成绩](https://mp.weixin.qq.com/s/d1XwNAKawdSAkQDdQwZ2PQ) | A+ |
 | 山西大学 | [取得重大突破，实现提档升级](https://mp.weixin.qq.com/s/fs43G3K-vxgBguvk8rp6tA) | A- |
+| 天津大学 | [B+](https://mp.weixin.qq.com/s?__biz=MzA5NTQwOTgzMg==&mid=2651480023&idx=1&sn=2259a3d48bf396c4b8626d91a7742be1&scene=21#wechat_redirect) |  |
 | 中国矿业大学 | [提档升级](https://smsp.cumt.edu.cn/c2/bc/c18888a639676/page.htm) | 第四轮C- |
 | 中山大学 | [A](https://mp.weixin.qq.com/s/2-2_GC3kFsGYTfxZxsspng) |  |
 
@@ -1770,6 +1950,7 @@
 | 南开大学 | [取得重大突破](http://news.nankai.edu.cn/ywsd/system/2023/01/16/030054266.shtml) | A+ |
 | 山东师范大学 | [取得提档进位的斐然成绩，跻身该学科前列](http://www.qlshx.sdnu.edu.cn/info/10445/133214.htm) | 第四轮B |
 | 上海交通大学 | [（学院）取得关键性突破](https://mp.weixin.qq.com/s/rg_TRkGzE6QI9FjKDpq9eQ) | 第四轮A- |
+| 天津大学 | [A-](https://mp.weixin.qq.com/s?__biz=MzA5NTQwOTgzMg==&mid=2651480023&idx=1&sn=2259a3d48bf396c4b8626d91a7742be1&scene=21#wechat_redirect) |  |
 | 西安交通大学 | [提高两档](https://mp.weixin.qq.com/s/A2Lsp54kxmsCG5LnYQS_kg) | B |
 | 中国科学技术大学 | [继续位居前列](https://mp.weixin.qq.com/s/Hh9sqpNTV8LhG0VzCsEasg) | A+ |
 | 中山大学 | [A](https://mp.weixin.qq.com/s/2-2_GC3kFsGYTfxZxsspng) | 第四轮A- |
@@ -1799,6 +1980,7 @@
 | 学校 | 等级（原话） | 推测等级或第四轮等级 | 
 | -------------- | ------------------------------ | -------------------- |
 | 河海大学 | [稳步提升](https://hyxy.hhu.edu.cn/_t366/2023/0103/c8672a256023/page.htm) | 第四轮C+ |
+| 天津大学 | [B](https://mp.weixin.qq.com/s?__biz=MzA5NTQwOTgzMg==&mid=2651480023&idx=1&sn=2259a3d48bf396c4b8626d91a7742be1&scene=21#wechat_redirect) |  |
 | 同济大学 | [可喜进步](https://mp.weixin.qq.com/s/m6bwCrDZOttkfgeaMClqrA) | 第四轮B+ |
 
 ### 地球物理学
@@ -1820,6 +2002,7 @@
 | -------------- | ------------------------------ | -------------------- |
 | 兰州大学 | [昂首迈入A类学科行列](https://lifesc.lzu.edu.cn/info/1089/2722.htm) | A- |
 | 上海交通大学 | A+ |  |
+| 天津大学 | [B](https://mp.weixin.qq.com/s?__biz=MzA5NTQwOTgzMg==&mid=2651480023&idx=1&sn=2259a3d48bf396c4b8626d91a7742be1&scene=21#wechat_redirect) |  |
 | 同济大学 | [A类](https://mp.weixin.qq.com/s/JqzwZENdXd6tH2hN7kfemA) | 第四轮B+ |
 | 武汉大学 | A |  |
 | 厦门大学 | [实现突破](https://life.xmu.edu.cn/info/1093/8801.htm) | 第四轮A- |
@@ -1868,7 +2051,9 @@
 | 北京理工大学 | 优势学科（标蓝） | A- |
 | 北京理工大学 | [A-](https://mp.weixin.qq.com/s/KxEAA_SSURilJ34Qhgy_sA) |  |
 | 东南大学 | [较上轮进一步提升](https://civil.seu.edu.cn/2023/0118/c19885a433970/page.htm) | B |
+| 南京航空航天大学 | [位于国内高校前列](https://mp.weixin.qq.com/s/9p6j-_bXQgMuL8xs6RY6-A) | A类，第四轮A- |
 | 南京理工大学 | 十四五目标B+，标灰色字体 | 第四轮B |
+| 天津大学 | [A-](https://mp.weixin.qq.com/s?__biz=MzA5NTQwOTgzMg==&mid=2651480023&idx=1&sn=2259a3d48bf396c4b8626d91a7742be1&scene=21#wechat_redirect) |  |
 | 中国科学技术大学 | [（工程科学学院）学科稳步前进，取得新突破](https://mp.weixin.qq.com/s/2TnOs4ce6PzcjZTGTdFyuQ) |  |
 | 中国矿业大学（北京） | [B](https://mp.weixin.qq.com/s/AKpPi03nqXDBDEH2XR_0Ag) |  |
 
@@ -1880,7 +2065,10 @@
 | 北京理工大学 | 优势学科（标绿） | A |
 | 重庆大学 | [进入第一方阵](https://mp.weixin.qq.com/s/vGczqX-MZlQhtPM4JCkcNg) | 第四轮A- |
 | 重庆交通大学 | [C](https://news.cqjtu.edu.cn/info/1021/49762.htm) | 第四轮C- |
+| 湖南大学 | [可喜进步](http://mve.hnu.edu.cn/info/1046/10445.htm) | 第四轮A- |
+| 南京航空航天大学 | [位于国内高校前列](https://mp.weixin.qq.com/s/9p6j-_bXQgMuL8xs6RY6-A) | A类，第四轮A- |
 | 南京理工大学 | 十四五目标A，标黑色字体 | A/A-，第四轮B+ |
+| 天津大学 | [A](https://mp.weixin.qq.com/s?__biz=MzA5NTQwOTgzMg==&mid=2651480023&idx=1&sn=2259a3d48bf396c4b8626d91a7742be1&scene=21#wechat_redirect) |  |
 | 西安电子科技大学 | [A-（全国前10%）](https://mp.weixin.qq.com/s/gflO5HLoskqVmBmHL3qmqA) |  |
 | 西安电子科技大学 | [实力国内领先](https://mp.weixin.qq.com/s/oYUV9nVMOA_yh0H_ktZwhg) |  |
 | 西北工业大学 | [取得佳绩](https://mp.weixin.qq.com/s/5rAP9U2XG4BestKhdSc9yA) | 第四轮B+ |
@@ -1896,6 +2084,7 @@
 | 长春理工大学 | [A类](https://www.cust.edu.cn/lgtt/f5cbf6327f5449aaa0849f167c70c79d.htm) | A |
 | 长春理工大学 | [首次获评A类学科，在第四轮获评A-基础上再上新台阶](https://www.cust.edu.cn/lgxw/9bad816f23054d91aca4b1896e74aa07.htm) | A |
 | 南京理工大学 | 十四五目标A，标黑色字体 | A/A-，第四轮B+ |
+| 天津大学 | [A+](https://mp.weixin.qq.com/s?__biz=MzA5NTQwOTgzMg==&mid=2651480023&idx=1&sn=2259a3d48bf396c4b8626d91a7742be1&scene=21#wechat_redirect) |  |
 | 浙江大学 | [在教育部学科评估中自2007年被评为全国第一以来持续保持优势，是浙江大学最具影响力的高峰学科之一](https://mp.weixin.qq.com/s/ZWHMkLPO8dXNpHhKowdNrQ) | A+ |
 
 ### 仪器科学与技术
@@ -1919,6 +2108,7 @@
 | 北京理工大学 | [A](https://mp.weixin.qq.com/s/CTNfUO3UxcbUsaO00kqSoA) |  |
 | 华中科技大学 | [跨越式发展，进入第一方阵](https://mp.weixin.qq.com/s/emIhDVfg-0tZsQdKwO2scw) | 第四轮B+ |
 | 南京理工大学 | 十四五目标A，标灰色字体 | 第四轮B |
+| 天津大学 | [A-](https://mp.weixin.qq.com/s?__biz=MzA5NTQwOTgzMg==&mid=2651480023&idx=1&sn=2259a3d48bf396c4b8626d91a7742be1&scene=21#wechat_redirect) |  |
 | 武汉纺织大学 | [C-](https://news.wtu.edu.cn/info/1002/34007.htm) |  |
 | 燕山大学 | [发展再创佳绩，实现了我校学科建设的重大突破。](https://mp.weixin.qq.com/s/vn-MeA5JyUE5_BaUZeWEjA) | 第四轮B+ |
 | 中国科学技术大学 | [显著进步](https://mp.weixin.qq.com/s/Hh9sqpNTV8LhG0VzCsEasg) | A |
@@ -1933,6 +2123,7 @@
 | 东南大学 | [全国排名第九](https://power.seu.edu.cn/2022/0622/c9506a412401/page.htm) |  |
 | 华北电力大学 | [A-](https://mp.weixin.qq.com/s/eF1Z9i74uCHGljp1pfCkZw) |  |
 | 南京理工大学 | 十四五目标B+，标灰色字体 | 第四轮C+ |
+| 天津大学 | [A](https://mp.weixin.qq.com/s?__biz=MzA5NTQwOTgzMg==&mid=2651480023&idx=1&sn=2259a3d48bf396c4b8626d91a7742be1&scene=21#wechat_redirect) |  |
 | 中国科学技术大学 | [（工程科学学院）学科稳步前进，取得新突破](https://mp.weixin.qq.com/s/2TnOs4ce6PzcjZTGTdFyuQ) |  |
 
 ### 电气工程
@@ -1944,8 +2135,12 @@
 | 哈尔滨工业大学 | A |  |
 | 湖南大学 | [获佳绩](https://mp.weixin.qq.com/s/oaqFgFGOLglf8a646fIM6Q) | 第四轮B+ |
 | 华北电力大学 | [A](https://mp.weixin.qq.com/s/eF1Z9i74uCHGljp1pfCkZw) |  |
+| 华东交通大学 | [取得了进步](https://mp.weixin.qq.com/s/xyVJFCcR11EZJhb6V3X7Lg) | 第四轮未在榜上 |
 | 华中科技大学 | [更进一步](https://mp.weixin.qq.com/s/7LLz7tT9I_H-m_J7ffNQrg) | A+ |
+| 天津大学 | [A-](https://mp.weixin.qq.com/s?__biz=MzA5NTQwOTgzMg==&mid=2651480023&idx=1&sn=2259a3d48bf396c4b8626d91a7742be1&scene=21#wechat_redirect) |  |
 | 武汉大学 | [（电气与自动化学院）迈上新台阶（B+）](https://mp.weixin.qq.com/s/Z0XI8GdEysdayTy8douGtw) | 第四轮B |
+| 西安交通大学 | [优异成绩，持续保持领头羊地位](https://mp.weixin.qq.com/s/vi_jW920WmjWH02xjSmZFA) | A+ |
+| 西安理工大学 | [相较第四轮的C+有了进一步提升](https://mp.weixin.qq.com/s/xS-EJ-5nwH1CCgEkORkcXg) | B- |
 | 郑州大学 | [进一档](http://www5.zzu.edu.cn/eie/info/1045/3785.htm) | C+ |
 
 ### 电子科学与技术
@@ -1954,10 +2149,12 @@
 | -------------- | ------------------------------ | -------------------- |
 | 北京大学 | [突出重围，再创佳绩](https://ele.pku.edu.cn/info/1012/2341.htm) |  |
 | 北京大学 | [A+](https://mp.weixin.qq.com/s/I66_2PW7nsyBhEbVgw8NKA) |  |
+| 北京交通大学 | [（学院）取得可喜进展](https://open.work.weixin.qq.com/wwopen/mpnews?mixuin=MThiDwAABwADrPV9AAAUAA&mfid=WW0321-pkB6ZwAABwBWBmbrZlOtiAYqrHq71&idx=0&sn=67acfc2cd3aa3eb77dd2095a2a5bc350) | 第四轮B- |
 | 电子科技大学 | [A+（全国第一）](https://www.ese.uestc.edu.cn/xygk/xyjj.htm) |  |
 | 电子科技大学 | [A+](https://mp.weixin.qq.com/s/jiO56J7ihCnctN-UFGS2hA) |  |
 | 南京理工大学 | 十四五目标B+，标灰色字体 | 第四轮B |
 | 清华大学 | [表现突出](https://mp.weixin.qq.com/s/SlBbrxfNmcI4iJe9OEZZjg) | 第四轮A |
+| 天津大学 | [A-](https://mp.weixin.qq.com/s?__biz=MzA5NTQwOTgzMg==&mid=2651480023&idx=1&sn=2259a3d48bf396c4b8626d91a7742be1&scene=21#wechat_redirect) |  |
 | 西安电子科技大学 | [实力国内领先](https://mp.weixin.qq.com/s/oYUV9nVMOA_yh0H_ktZwhg) | 第四轮A+ |
 | 西北工业大学 | [进入一流行列（A类）](https://mp.weixin.qq.com/s/U8X3gmOXsHAErEDFdCc1KQ) | 第四轮B+ |
 | 郑州大学 | [进一档](http://www5.zzu.edu.cn/eie/info/1045/3785.htm) | C |
@@ -1969,12 +2166,15 @@
 | 北京大学 | [突出重围，再创佳绩](https://ele.pku.edu.cn/info/1012/2341.htm) |  |
 | 北京大学 | [A-](https://mp.weixin.qq.com/s/I66_2PW7nsyBhEbVgw8NKA) |  |
 | 北京航空航天大学 | [A](https://bhpan.buaa.edu.cn/#/link/653DAF1585EDBA6DF9F8F79BAAB0A40F) |  |
+| 北京交通大学 | [（学院）取得可喜进展](https://open.work.weixin.qq.com/wwopen/mpnews?mixuin=MThiDwAABwADrPV9AAAUAA&mfid=WW0321-pkB6ZwAABwBWBmbrZlOtiAYqrHq71&idx=0&sn=67acfc2cd3aa3eb77dd2095a2a5bc350) | 第四轮A- |
 | 北京理工大学 | 优势学科（标红） | A+ |
 | 北京理工大学 | A+ | 第四轮A- |
 | 电子科技大学 | [A+](https://mp.weixin.qq.com/s/7jKh8b7Sejda4D5ECYSsiQ) |  |
+| 南京航空航天大学 | [位于国内高校前列](https://mp.weixin.qq.com/s/9p6j-_bXQgMuL8xs6RY6-A) | A类，第四轮B |
 | 南京理工大学 | 十四五目标B+，标灰色字体 | 第四轮B |
 | 清华大学 | [表现突出](https://mp.weixin.qq.com/s/SlBbrxfNmcI4iJe9OEZZjg) | 第四轮A |
 | 上海交通大学 | [A](https://mp.weixin.qq.com/s/25SG3oKV0-QIwr9C3A3e4A) |  |
+| 天津大学 | [B+](https://mp.weixin.qq.com/s?__biz=MzA5NTQwOTgzMg==&mid=2651480023&idx=1&sn=2259a3d48bf396c4b8626d91a7742be1&scene=21#wechat_redirect) |  |
 | 西安电子科技大学 | [实力国内领先](https://mp.weixin.qq.com/s/oYUV9nVMOA_yh0H_ktZwhg) | 第四轮A |
 | 西安电子科技大学 | [A+](https://web.xidian.edu.cn/swxu/team.html) |  |
 | 西北工业大学 | 一流行列（A） | 第四轮B |
@@ -1988,6 +2188,7 @@
 | 学校 | 等级（原话） | 推测等级或第四轮等级 | 
 | -------------- | ------------------------------ | -------------------- |
 | 北京航空航天大学 | [A](https://bhpan.buaa.edu.cn/#/link/653DAF1585EDBA6DF9F8F79BAAB0A40F) |  |
+| 北京交通大学 | [（学院）取得可喜进展](https://open.work.weixin.qq.com/wwopen/mpnews?mixuin=MThiDwAABwADrPV9AAAUAA&mfid=WW0321-pkB6ZwAABwBWBmbrZlOtiAYqrHq71&idx=0&sn=67acfc2cd3aa3eb77dd2095a2a5bc350) | 第四轮B- |
 | 北京理工大学 | 优势学科（标红） | A+ |
 | 北京理工大学 | [A+](https://ac.bit.edu.cn/xygk/xyjj/index.htm) |  |
 | 渤海大学 | [较好成绩](http://www3.bhu.edu.cn/page/depart/gxy/news.asp?id=21650) |  |
@@ -1995,10 +2196,13 @@
 | 哈尔滨工程大学 | [国内前列](https://mp.weixin.qq.com/s/l3fz303khIu5igKKKGvyoQ) | 第四轮A- |
 | 哈尔滨工程大学 | [A类](https://mp.weixin.qq.com/s/wTv6HchPGVeejijlJUBOsg) | 第四轮A- |
 | 湖南大学 | [获佳绩](https://mp.weixin.qq.com/s/oaqFgFGOLglf8a646fIM6Q) | 第四轮B |
+| 华东交通大学 | [取得了进步](https://mp.weixin.qq.com/s/xyVJFCcR11EZJhb6V3X7Lg) | 第四轮B- |
+| 南京航空航天大学 | [位于国内高校前列](https://mp.weixin.qq.com/s/9p6j-_bXQgMuL8xs6RY6-A) | A类，第四轮B+ |
 | 南京理工大学 | 十四五目标A，标黑色字体 | A/A-，第四轮B+ |
 | 山东大学 | [A类](https://control.sdu.edu.cn/xygk/xyjj.htm) | A |
 | 山东大学 | [A](https://control.sdu.edu.cn/info/1057/6271.htm) |  |
 | 上海交通大学 | [A](https://mp.weixin.qq.com/s/25SG3oKV0-QIwr9C3A3e4A) |  |
+| 天津大学 | [B+](https://mp.weixin.qq.com/s?__biz=MzA5NTQwOTgzMg==&mid=2651480023&idx=1&sn=2259a3d48bf396c4b8626d91a7742be1&scene=21#wechat_redirect) |  |
 | 武汉大学 | [（电气与自动化学院）迈上新台阶（B+）](https://mp.weixin.qq.com/s/Z0XI8GdEysdayTy8douGtw) | 第四轮B- |
 | 浙江大学 | [A+](https://mp.weixin.qq.com/s/03nIWRJboCrKkC17TviVWQ) |  |
 | 浙江大学 | [A+](https://mp.weixin.qq.com/s/gNXFc_btTmxTxzlKiUtI2g) |  |
@@ -2018,6 +2222,7 @@
 | 清华大学 | [A+](https://mp.weixin.qq.com/s/Vnn5sqhkDwNOIf6JC59GPg) |  |
 | 山东师范大学 | [好成绩](http://www.ischool.sdnu.edu.cn/info/1052/7605.htm) |  |
 | 上海交通大学 | [A+](https://mp.weixin.qq.com/s/25SG3oKV0-QIwr9C3A3e4A) |  |
+| 天津大学 | [A-](https://mp.weixin.qq.com/s?__biz=MzA5NTQwOTgzMg==&mid=2651480023&idx=1&sn=2259a3d48bf396c4b8626d91a7742be1&scene=21#wechat_redirect) |  |
 | 西安电子科技大学 | [实力国内领先](https://mp.weixin.qq.com/s/oYUV9nVMOA_yh0H_ktZwhg) | 第四轮A- |
 | 西北工业大学 | [成绩优异](https://jsj.nwpu.edu.cn/snew/rczp.htm) | 第四轮A- |
 | 战略支援部队信息工程大学 | [A-](https://job.zcmu.edu.cn/campus/view/id/334643) |  |
@@ -2026,12 +2231,14 @@
 | 浙江工业大学 | [取得可喜进步](https://mp.weixin.qq.com/s/HrS3dMQ8DMWeC2HtWwcU-g) | 第四轮B |
 | 中国人民大学 | [强优](https://mp.weixin.qq.com/s/P7747JgNINoUt01BI4i01g) | A |
 | 中国人民大学 | [取得跨越式发展，进入国内第一方阵](https://mp.weixin.qq.com/s/4-QhEPUlSdMJAjXDfZBm2w) | A |
+| 中国人民大学 | [在第五轮学科评估中被推为强优学科](https://mp.weixin.qq.com/s/dneLZ67GRAhA1DQ8DTYL-w) | A |
 
 ### 建筑学
 
 | 学校 | 等级（原话） | 推测等级或第四轮等级 | 
 | -------------- | ------------------------------ | -------------------- |
 | 西安建筑科技大学 | [重要突破](https://news.xauat.edu.cn/jdyw/2023-02-07/19285.html) | 第四轮B+ |
+| 西安建筑科技大学 | [里程碑式的成绩](https://mp.weixin.qq.com/s/qJvKVgoQVu_GvIxfeT5dgw) | 第四轮B+ |
 
 ### 土木工程
 
@@ -2043,7 +2250,9 @@
 | 广西大学 | [上升了一个档次](https://news.gxu.edu.cn/info/1002/40099.htm) | B |
 | 清华大学 | [（学院）取得新突破](https://mp.weixin.qq.com/s/e9znCtjr3dVSYYxbsn-5Bg) | A+ |
 | 天津大学 | [三个学科均取得了全面提升](http://jgxy.tju.edu.cn/xygk.htm) | 第四轮A- |
+| 天津大学 | [A](https://mp.weixin.qq.com/s?__biz=MzA5NTQwOTgzMg==&mid=2651480023&idx=1&sn=2259a3d48bf396c4b8626d91a7742be1&scene=21#wechat_redirect) |  |
 | 西安建筑科技大学 | [重要突破](https://news.xauat.edu.cn/jdyw/2023-02-07/19285.html) | 第四轮B+ |
+| 西安建筑科技大学 | [里程碑式的成绩](https://mp.weixin.qq.com/s/qJvKVgoQVu_GvIxfeT5dgw) | 第四轮B+ |
 | 中国矿业大学 | [提档升级](https://mp.weixin.qq.com/s/KAb6UTpo5csCFK6y4ePlsg) | A- |
 | 中国矿业大学（北京） | [A-](https://mp.weixin.qq.com/s/AKpPi03nqXDBDEH2XR_0Ag) |  |
 
@@ -2054,6 +2263,7 @@
 | 华北水利水电大学 | [B+](https://www2.ncwu.edu.cn/jhxq/info/1121/1631.htm) |  |
 | 清华大学 | [（学院）取得新突破](https://mp.weixin.qq.com/s/e9znCtjr3dVSYYxbsn-5Bg) | A+ |
 | 天津大学 | [三个学科均取得了全面提升](http://jgxy.tju.edu.cn/xygk.htm) | 第四轮A- |
+| 天津大学 | [A](https://mp.weixin.qq.com/s?__biz=MzA5NTQwOTgzMg==&mid=2651480023&idx=1&sn=2259a3d48bf396c4b8626d91a7742be1&scene=21#wechat_redirect) |  |
 
 ### 化学工程与技术
 
@@ -2065,6 +2275,7 @@
 | 华东理工大学 | [取得优异成绩](https://news.ecust.edu.cn/2023/0119/c6a170528/page.htm) | 第四轮A+ |
 | 南京理工大学 | 十四五目标A+，标黑色字体 | A+，第四轮A- |
 | 上海交通大学 | [（学院）取得关键性突破](https://mp.weixin.qq.com/s/rg_TRkGzE6QI9FjKDpq9eQ) | 第四轮B+ |
+| 天津大学 | [A+](https://mp.weixin.qq.com/s?__biz=MzA5NTQwOTgzMg==&mid=2651480023&idx=1&sn=2259a3d48bf396c4b8626d91a7742be1&scene=21#wechat_redirect) |  |
 | 浙江大学 | 在上一轮学科评估成绩A基础上再上一个台阶 | A+ |
 | 浙江工业大学 | [A](https://mp.weixin.qq.com/s/50Kg8cT-2OSD7PPCbQ5kjg) | 第四轮A- |
 | 中南大学 | [大幅进步](https://ccce.csu.edu.cn/info/1002/7134.htm) |  |
@@ -2075,6 +2286,7 @@
 | -------------- | ------------------------------ | -------------------- |
 | 中国地质大学（武汉） | [A+](https://mp.weixin.qq.com/s/0doNnlkPntJKaFYHMPhefg) |  |
 | 中国地质大学（武汉） | [A+](https://zyxy.cug.edu.cn/info/1278/9310.htm) |  |
+| 中国石油大学 | [A+](https://mp.weixin.qq.com/s/V6NlMVaj2T5LMbjmPMm9MQ) |  |
 | 中国石油大学（北京） | [A+](https://www.cup.edu.cn/geosci/) |  |
 
 ### 矿业工程
@@ -2093,6 +2305,12 @@
 | 中国地质大学（北京） | [较上一轮排名有所提升](https://ser.cugb.edu.cn/c/2023-01-13/770381.shtml) | 第四轮B-，第三 |
 | 中国地质大学（武汉） | [B](https://zyxy.cug.edu.cn/info/1278/9310.htm) |  |
 
+### 纺织科学与工程
+
+| 学校 | 等级（原话） | 推测等级或第四轮等级 | 
+| -------------- | ------------------------------ | -------------------- |
+| 西安工程大学 | [西北地区唯一进入B类的纺织学科](https://news.xpu.edu.cn/info/1003/15371.htm) |  |
+
 ### 轻工技术与工程
 
 | 学校 | 等级（原话） | 推测等级或第四轮等级 | 
@@ -2105,9 +2323,11 @@
 | 学校 | 等级（原话） | 推测等级或第四轮等级 | 
 | -------------- | ------------------------------ | -------------------- |
 | 北京航空航天大学 | [A-](https://bhpan.buaa.edu.cn/#/link/653DAF1585EDBA6DF9F8F79BAAB0A40F) |  |
+| 北京交通大学 | [（学院）取得可喜进展](https://open.work.weixin.qq.com/wwopen/mpnews?mixuin=MThiDwAABwADrPV9AAAUAA&mfid=WW0321-pkB6ZwAABwBWBmbrZlOtiAYqrHq71&idx=0&sn=67acfc2cd3aa3eb77dd2095a2a5bc350) | 第四轮A- |
 | 重庆交通大学 | [B+](https://news.cqjtu.edu.cn/info/1021/49762.htm) | 第四轮B |
 | 东南大学 | [A+](https://mp.weixin.qq.com/s/eBqCnQJRdxNEEBkqy_ELFg) |  |
 | 西南交通大学 | [A+](https://mp.weixin.qq.com/s/YWX9fillzkvPogxVvmqkkw) |  |
+| 中国民航大学 | [进入B段](https://mp.weixin.qq.com/s/f0K_73LAibyVHTZBPOVERA) | 第四轮C+ |
 
 ### 船舶与海洋工程
 
@@ -2123,6 +2343,7 @@
 | -------------- | ------------------------------ | -------------------- |
 | 北京航空航天大学 | [A+](https://bhpan.buaa.edu.cn/#/link/653DAF1585EDBA6DF9F8F79BAAB0A40F) |  |
 | 北京理工大学 | [B+](https://mp.weixin.qq.com/s/KxEAA_SSURilJ34Qhgy_sA) |  |
+| 南京航空航天大学 | [位于国内高校前列](https://mp.weixin.qq.com/s/9p6j-_bXQgMuL8xs6RY6-A) | A类，第四轮B+ |
 | 西北工业大学 | [取得佳绩](https://hangkong.nwpu.edu.cn/info/1064/13764.htm) | 第四轮A+ |
 | 西北工业大学 | [取得佳绩](https://mp.weixin.qq.com/s/5rAP9U2XG4BestKhdSc9yA) | 第四轮A+ |
 
@@ -2158,16 +2379,20 @@
 | 南京大学 | [优异成绩](https://hjxy.nju.edu.cn/sy/xydt/20230119/i237878.html) | A+ |
 | 南京理工大学 | 十四五目标B+，标黑色字体 | 第四轮B |
 | 山东大学 | [历史性进步](https://www.qdxq.sdu.edu.cn/info/1015/33254.htm) | 第四轮B+ |
+| 天津大学 | [A-](https://mp.weixin.qq.com/s?__biz=MzA5NTQwOTgzMg==&mid=2651480023&idx=1&sn=2259a3d48bf396c4b8626d91a7742be1&scene=21#wechat_redirect) |  |
 | 西安建筑科技大学 | [重要突破](https://news.xauat.edu.cn/jdyw/2023-02-07/19285.html) | 第四轮B+ |
+| 西安建筑科技大学 | [里程碑式的成绩](https://mp.weixin.qq.com/s/qJvKVgoQVu_GvIxfeT5dgw) | 第四轮B+ |
 
 ### 生物医学工程
 
 | 学校 | 等级（原话） | 推测等级或第四轮等级 | 
 | -------------- | ------------------------------ | -------------------- |
 | 北京航空航天大学 | [A+](https://bhpan.buaa.edu.cn/#/link/653DAF1585EDBA6DF9F8F79BAAB0A40F) |  |
+| 北京航空航天大学 | [进入顶尖学科行列，A+](https://mp.weixin.qq.com/s/LV_IEBm4kpt-Rypelb1FKQ) |  |
 | 北京化工大学 | [A+](https://life.buct.edu.cn/2023/0117/c754a175608/page.htm) |  |
 | 华东理工大学 | [取得优异成绩](https://news.ecust.edu.cn/2023/0119/c6a170528/page.htm) | 第四轮未在榜上 |
 | 上海交通大学 | [在历次学科评估中名列前三](https://mp.weixin.qq.com/s/tdMhRfLfoNyxb3ctB0SXrA) | A |
+| 天津大学 | [A](https://mp.weixin.qq.com/s?__biz=MzA5NTQwOTgzMg==&mid=2651480023&idx=1&sn=2259a3d48bf396c4b8626d91a7742be1&scene=21#wechat_redirect) |  |
 
 ### 食品科学与工程
 
@@ -2180,6 +2405,7 @@
 
 | 学校 | 等级（原话） | 推测等级或第四轮等级 | 
 | -------------- | ------------------------------ | -------------------- |
+| 天津大学 | [A-](https://mp.weixin.qq.com/s?__biz=MzA5NTQwOTgzMg==&mid=2651480023&idx=1&sn=2259a3d48bf396c4b8626d91a7742be1&scene=21#wechat_redirect) |  |
 | 中国矿业大学（北京） | [B-](https://mp.weixin.qq.com/s/AKpPi03nqXDBDEH2XR_0Ag) |  |
 
 ### 风景园林学
@@ -2198,9 +2424,11 @@
 | 北京大学 | [取得最佳成绩](https://cs.pku.edu.cn/info/1025/3752.htm) | A+ |
 | 北京航空航天大学 | [A+](https://bhpan.buaa.edu.cn/#/link/653DAF1585EDBA6DF9F8F79BAAB0A40F) |  |
 | 大连理工大学 | [跨越式提升](https://mp.weixin.qq.com/s/MPtIyaiNXq1ERDgp8ophYA) | 第四轮B+ |
+| 南京航空航天大学 | [位于国内高校前列](https://mp.weixin.qq.com/s/9p6j-_bXQgMuL8xs6RY6-A) | A类，第四轮B+ |
 | 南京理工大学 | 十四五目标B+，标黑色字体 | 第四轮B |
 | 清华大学 | [A+](https://mp.weixin.qq.com/s/Vnn5sqhkDwNOIf6JC59GPg) |  |
 | 山东大学 | [A类](https://www.sc.sdu.edu.cn/info/1033/3758.htm) | 第四轮B+ |
+| 天津大学 | [A-](https://mp.weixin.qq.com/s?__biz=MzA5NTQwOTgzMg==&mid=2651480023&idx=1&sn=2259a3d48bf396c4b8626d91a7742be1&scene=21#wechat_redirect) |  |
 | 浙江大学 | [持续保持优势](https://mp.weixin.qq.com/s/VEJDWl-HEV1-jgj3ArpXlA) | A+ |
 | 浙江工业大学 | [继续保持省内省属高校的优势](https://mp.weixin.qq.com/s/HrS3dMQ8DMWeC2HtWwcU-g) | 第四轮浙江工业大学B、浙江师范大学B-、杭州电子科技大学C+、 浙江理工大学C+ |
 
@@ -2215,6 +2443,7 @@
 | 西南交通大学 | [取得新突破](https://mp.weixin.qq.com/s/YWX9fillzkvPogxVvmqkkw) | 第四轮未在榜上 |
 | 中国矿业大学 | [A+](https://mp.weixin.qq.com/s/ZPbOdJiqGLnCJWKfn7bVHw) |  |
 | 中国矿业大学 | [A+](https://gfc.cumt.edu.cn/c3/ce/c15802a639950/page.htm) |  |
+| 中国民航大学 | [进入B段](https://mp.weixin.qq.com/s/f0K_73LAibyVHTZBPOVERA) | 第四轮C+ |
 
 ### 网络空间安全
 
@@ -2240,6 +2469,7 @@
 | -------------- | ------------------------------ | -------------------- |
 | 浙江大学 | [持续保持优势](https://mp.weixin.qq.com/s/PNKL-qkML-UIwVWhPu8q-w) | A+ |
 | 中国农业大学 | [农学门类学科全部获A以上成绩](https://news.cau.edu.cn/art/2023/1/3/art_8769_895604.html) | 第四轮B+ |
+| 中国农业科学院 | [跻身顶尖学科](https://mp.weixin.qq.com/s/BFEVuygU5WhUUxtGZU7D8g) | 第四轮B+ |
 
 ### 农业资源与环境
 
@@ -2263,13 +2493,14 @@
 
 | 学校 | 等级（原话） | 推测等级或第四轮等级 | 
 | -------------- | ------------------------------ | -------------------- |
-| 河南农业大学 | [光荣晋级](https://dwkjxy.henau.edu.cn/plus/list.php?tid=2) | 第四轮C+ |
+| 河南农业大学 | [光荣晋级](https://dwkjxy.henau.edu.cn/plus/list.php?tid=2) | B-，第四轮C+ |
 | 中国农业大学 | [农学门类学科全部获A以上成绩](https://news.cau.edu.cn/art/2023/1/3/art_8769_895604.html) | 第四轮A+ |
 
 ### 兽医学
 
 | 学校 | 等级（原话） | 推测等级或第四轮等级 | 
 | -------------- | ------------------------------ | -------------------- |
+| 河南农业大学 | [新的突破](https://mp.weixin.qq.com/s/xxYIXL7Hw5GwsCxZ_6YThA) |  |
 | 河南农业大学 | [取得不俗的成绩](https://www.henau.edu.cn/info/1114/34980.htm) | 第四轮B |
 | 中国农业大学 | [农学门类学科全部获A以上成绩](https://news.cau.edu.cn/art/2023/1/3/art_8769_895604.html) | 第四轮A+ |
 
@@ -2327,6 +2558,7 @@
 | 学校 | 等级（原话） | 推测等级或第四轮等级 | 
 | -------------- | ------------------------------ | -------------------- |
 | 北京中医药大学 | [再创佳绩](https://mp.weixin.qq.com/s/QPq0Hc7bd7YxII8UhV5wMQ) | A+ |
+| 河北中医学院 | [大幅增比晋位](https://mp.weixin.qq.com/s/uvTU72uxUvhSaaWWxiKZvw) | 第四轮C- |
 | 南京中医药大学 | [A档](https://mp.weixin.qq.com/s/t8JbTD4yOTbUIRXJi1fjeA) | 第四轮A- |
 | 天津中医药大学 | [显著进步](https://news13.tjutcm.edu.cn/info/1658/19339.htm) | 第四轮B+ |
 
@@ -2337,7 +2569,9 @@
 | 北京中医药大学 | [再创佳绩](https://mp.weixin.qq.com/s/QPq0Hc7bd7YxII8UhV5wMQ) | A+ |
 | 大连医科大学 | [历史性突破](https://news.dmu.edu.cn/info/1253/26087.htm) | 第四轮B+ |
 | 广州医科大学 | C |  |
-| 南方医科大学 | [取得突破并实现学校既定目标](http://portal.smu.edu.cn/zyyxy/info/1035/4329.htm) | 第四轮B+ |
+| 河北中医学院 | [大幅增比晋位](https://mp.weixin.qq.com/s/uvTU72uxUvhSaaWWxiKZvw) | 第四轮C |
+| 南方医科大学 | [取得突破并实现学校既定目标](http://portal.smu.edu.cn/zyyxy/info/1035/4329.htm) | A-，第四轮B+ |
+| 南方医科大学 | [A类](https://mp.weixin.qq.com/s/kD_Q7MfztCzpGJUzh9ZOPg) | A- |
 
 ### 药学
 
@@ -2346,6 +2580,7 @@
 | 广东医科大学 | [力争第六轮学科评估提档升级，达到c+以上档次](https://news.gdmu.edu.cn/info/1004/27500.htm) | 第四轮未在榜上 |
 | 广州医科大学 | B- |  |
 | 苏州大学 | [A类](https://pharm.suda.edu.cn/f5/50/c29251a521552/page.htm) |  |
+| 天津大学 | [B](https://mp.weixin.qq.com/s?__biz=MzA5NTQwOTgzMg==&mid=2651480023&idx=1&sn=2259a3d48bf396c4b8626d91a7742be1&scene=21#wechat_redirect) |  |
 | 浙江大学 | [成绩斐然，创历史最好成绩](https://mp.weixin.qq.com/s/jWqDk1vbwk0P72x4lVl9sA) | A+ |
 
 ### 中药学
@@ -2353,6 +2588,7 @@
 | 学校 | 等级（原话） | 推测等级或第四轮等级 | 
 | -------------- | ------------------------------ | -------------------- |
 | 北京中医药大学 | [突破性进展](https://mp.weixin.qq.com/s/QPq0Hc7bd7YxII8UhV5wMQ) | A- |
+| 河北中医学院 | [大幅增比晋位](https://mp.weixin.qq.com/s/uvTU72uxUvhSaaWWxiKZvw) | 第四轮未在榜上 |
 | 南京中医药大学 | [A+](https://mp.weixin.qq.com/s/t8JbTD4yOTbUIRXJi1fjeA) | 第四轮A- |
 | 天津中医药大学 | [显著进步](https://news13.tjutcm.edu.cn/info/1658/19339.htm) | 第四轮A- |
 
@@ -2382,11 +2618,13 @@
 | 广东工业大学 | [B-](https://glxy.gdut.edu.cn/info/1115/17908.htm) |  |
 | 国防科技大学 | [A+](https://www.nudt.edu.cn/jyjx/jxdt/b0f67811c2704596bc676b7a0b557aa8.htm) |  |
 | 湖南大学 | [迈上新台阶](https://mp.weixin.qq.com/s/j6X0gIXjKgICdNq-ynLU6A) | B+ |
+| 南京航空航天大学 | [位于国内高校前列](https://mp.weixin.qq.com/s/9p6j-_bXQgMuL8xs6RY6-A) | A类，第四轮A- |
 | 南京理工大学 | 十四五目标B+，标黑色字体 | 第四轮B |
 | 清华大学 | [（学院）取得新突破](https://mp.weixin.qq.com/s/e9znCtjr3dVSYYxbsn-5Bg) | A+ |
 | 山东大学 | [（管理学院）取得历史最好成绩](https://mp.weixin.qq.com/s/GK2zlCvJHnhCNRK0bOsbwg) | 第四轮B |
 | 上海交通大学 | A+ |  |
 | 上海理工大学 | [优异成绩](https://bs.usst.edu.cn/10558/list.htm) | 第四轮B+ |
+| 天津大学 | [A+](https://mp.weixin.qq.com/s?__biz=MzA5NTQwOTgzMg==&mid=2651480023&idx=1&sn=2259a3d48bf396c4b8626d91a7742be1&scene=21#wechat_redirect) |  |
 | 同济大学 | [继续雄踞全国第一层次](https://mp.weixin.qq.com/s/SgO_gE3gbULBkM-qnlrirQ) | A+ |
 | 武汉纺织大学 | [取得了满意的成绩](https://news.wtu.edu.cn/info/1002/33975.htm) | 第四轮C |
 | 浙江大学 | [双跃升，处于国内领先地位](https://mp.weixin.qq.com/s/c9FOtHOmkJuPvhTnmlVl3g) | A+ |
@@ -2414,6 +2652,7 @@
 | 山东大学 | [（管理学院）取得历史最好成绩](https://mp.weixin.qq.com/s/GK2zlCvJHnhCNRK0bOsbwg) | 第四轮A- |
 | 上海财经大学 | [历史性突破](https://mp.weixin.qq.com/s/bmw75zidbKSbk5bWyZ9g8g) | A+，第四轮A |
 | 上海交通大学 | A+ |  |
+| 天津大学 | [A-](https://mp.weixin.qq.com/s?__biz=MzA5NTQwOTgzMg==&mid=2651480023&idx=1&sn=2259a3d48bf396c4b8626d91a7742be1&scene=21#wechat_redirect) |  |
 | 同济大学 | [实现重大突破，跃升同类学科前列](https://mp.weixin.qq.com/s/SgO_gE3gbULBkM-qnlrirQ) | 第四轮B+ |
 | 厦门大学 | [A](https://ifas.xmu.edu.cn/info/1013/3513.htm) | 第四轮A |
 | 浙江大学 | [双跃升，处于国内领先地位](https://mp.weixin.qq.com/s/c9FOtHOmkJuPvhTnmlVl3g) | 第四轮A- |
@@ -2437,6 +2676,7 @@
 | 北京航空航天大学 | [A-](https://bhpan.buaa.edu.cn/#/link/653DAF1585EDBA6DF9F8F79BAAB0A40F) |  |
 | 北京中医药大学 | [首次参评，实现了预期的目标](https://mp.weixin.qq.com/s/mOA5rUmWJd5oCEwkxHaPhQ) |  |
 | 湖南农业大学 | [优异成绩](https://gfxy.hunau.edu.cn/jxpy/bsspy/202212/t20221227_366780.html) |  |
+| 天津大学 | [B+](https://mp.weixin.qq.com/s?__biz=MzA5NTQwOTgzMg==&mid=2651480023&idx=1&sn=2259a3d48bf396c4b8626d91a7742be1&scene=21#wechat_redirect) |  |
 | 西南财经大学 | [B](https://mp.weixin.qq.com/s/UgNkwlxXgHCfvQpsJCPPYg) | 第四轮B- |
 | 湘潭大学 | [B-](https://glxy.xtu.edu.cn/info/1014/1021.htm) | 第四轮B |
 | 浙江大学 | [双丰收，成绩斐然](https://mp.weixin.qq.com/s/7wK7v5MsM-NA7r7dFrO7Qg) | 第四轮A |

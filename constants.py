@@ -4,7 +4,7 @@ TEMPLATE_README = '''# 第五轮学科评估官宣完全汇总（附出处）
 - 包括：微信公众号、官网、公开直播截图、官媒
 - 不包括：无法公开验证真实性的传言、聊天记录截图、转述
 
-177 所学校，92 个学科，628 条数据，整理不易，**客官点个 Star 吧～**
+{school_count} 所学校，{discipline_count} 个学科，{data_count} 条数据，整理不易，**客官点个 Star 吧～**
 
 ## 说明
 
@@ -12,7 +12,7 @@ TEMPLATE_README = '''# 第五轮学科评估官宣完全汇总（附出处）
 
 第二列是**原话**，第三列对模糊性表述进行推测或者给出第四轮结果以作参考
 
-点击原话的链接可以查看**原始出处**。大部分原始来源都已存档于 [Wayback Machine](https://web.archive.org/)（网页）、[Archive.today](Archive.today)（公众号文章及 Wayback Machine 保存失败的网页）。若原文章被删或被修改，多数情况下仍可在以上网站搜索查看
+点击原话的链接可以查看**原始出处**。大部分原始来源都已存档于 [Wayback Machine](https://web.archive.org/)（网页）、[Archive.today](https://archive.is/)（公众号文章及 Wayback Machine 保存失败的网页）。若原文章被删或被修改，多数情况下仍可在以上网站搜索查看
 
 受限于网页表格的宽度，以下没有列出原始文章日期、标题、备注等等更详细的信息，其中在备注里可能解释了一些细节信息。完整数据可查看：[original_data.csv](https://github.com/zjsxply/China-Discipline-Evaluation/blob/main/original_data.csv)
 
